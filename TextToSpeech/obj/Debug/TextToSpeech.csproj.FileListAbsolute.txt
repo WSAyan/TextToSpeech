@@ -1,0 +1,16 @@
+C:\Users\WS Ayan\AppData\Local\Temporary Projects\TextToSpeech\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\WS Ayan\AppData\Local\Temporary Projects\TextToSpeech\obj\Debug\TextToSpeech.Form1.resources
+C:\Users\WS Ayan\AppData\Local\Temporary Projects\TextToSpeech\obj\Debug\TextToSpeech.Properties.Resources.resources
+C:\Users\WS Ayan\AppData\Local\Temporary Projects\TextToSpeech\obj\Debug\TextToSpeech.csproj.GenerateResource.Cache
+C:\Users\WS Ayan\AppData\Local\Temporary Projects\TextToSpeech\bin\Debug\TextToSpeech.exe
+C:\Users\WS Ayan\AppData\Local\Temporary Projects\TextToSpeech\bin\Debug\TextToSpeech.pdb
+C:\Users\WS Ayan\AppData\Local\Temporary Projects\TextToSpeech\obj\Debug\TextToSpeech.exe
+C:\Users\WS Ayan\AppData\Local\Temporary Projects\TextToSpeech\obj\Debug\TextToSpeech.pdb
+F:\Project Related\ShaonVai\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.exe
+F:\Project Related\ShaonVai\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.pdb
+F:\Project Related\ShaonVai\TextToSpeech\TextToSpeech\bin\Debug\TextToSpeech.exe
+F:\Project Related\ShaonVai\TextToSpeech\TextToSpeech\bin\Debug\TextToSpeech.pdb
+F:\Project Related\ShaonVai\TextToSpeech\TextToSpeech\obj\Debug\ResolveAssemblyReference.cache
+F:\Project Related\ShaonVai\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.Form1.resources
+F:\Project Related\ShaonVai\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.Properties.Resources.resources
+F:\Project Related\ShaonVai\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.csproj.GenerateResource.Cache
